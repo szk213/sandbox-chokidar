@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/szk213/sandbox-chokidar#readme",
   "dependencies": {
-    "chokidar": "^2.0.0"
+    "chokidar": "^2.0.0",
+    "lodash": "^4.17.4"
   }
 }
